@@ -67,4 +67,4 @@ The dataset contains customer information such as:
 - Monitor high-risk customer segments.
 
 ## Project Files# Churn-Dashboard
-"C:\Users\konis\OneDrive\Pictures\Screenshots\Churn Dataset.png"
+
